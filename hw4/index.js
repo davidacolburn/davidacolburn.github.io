@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'She will never submit to any thing requiring industry and patience, and a subjection of the fancy to the understanding.',
+      'Alice was beginning to get very tired of sitting by her sister on the bank.',
   'example2':
-      'After a time she heard a little pattering of feet in the distance, and she hastily dried her eyes to see what was coming.',
+      'Buda-Pesth seems a wonderful place.',
   'example3':
-      'Alas the day, What good could they pretend?'      
+      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
 };
 
 function status(statusText) {
