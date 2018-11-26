@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Where shall we see a better daughter, or a kinder sister, or a truer friend?',
+      'Alice was beginning to get very tired of sitting by her sister on the bank.',
   'example2':
-      'Why, she'll eat a little bird as soon as look at it!',
+      'Buda-Pesth seems a wonderful place.',
   'example3':
-      'Alas the day, What good could they pretend?'      
+      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
 };
 
 function status(statusText) {
