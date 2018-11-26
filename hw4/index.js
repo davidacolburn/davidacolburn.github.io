@@ -10,7 +10,7 @@ const examples = {
   'example1':
       'She will never submit to any thing requiring industry and patience, and a subjection of the fancy to the understanding.',
   'example2':
-      'Why, she'll eat a little bird as soon as look at it!',
+      'After a time she heard a little pattering of feet in the distance, and she hastily dried her eyes to see what was coming.',
   'example3':
       'Alas the day, What good could they pretend?'      
 };
