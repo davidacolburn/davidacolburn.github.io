@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'She will.',
+      'She will never submit to any thing requiring industry and patience, and a subjection of the fancy to the understanding.',
   'example2':
-      'test 2',
+      'Why, she'll eat a little bird as soon as look at it!',
   'example3':
-      'test 3'      
+      'Alas the day, What good could they pretend?'      
 };
 
 function status(statusText) {
